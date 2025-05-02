@@ -1,7 +1,7 @@
 # **Favourite Sites App - React.js**
 
 Favourite Sites App is a **frontend project** made using **React.js** and **HTML/CSS**.
-> Link to the github repo: ['favourite-sites-app'](https://github.com/soumyadip-cy/favourite-sites-app)
+> Link to the GitHub Pages site: ['favourite-sites-app'](https://soumyadip-cy.github.io/favourite-sites-app/)
 
 ---
 
