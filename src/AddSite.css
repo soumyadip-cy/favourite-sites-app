@@ -1,0 +1,52 @@
+.big-div {
+    border-radius: 1rem;
+    padding: 0.25rem;
+    background: linear-gradient(135deg, red, blue);
+    transition: all 0.5s;
+    transition-timing-function: ease;
+}
+
+.big-div:hover {
+    background: white;
+}
+
+.small-div {
+    padding: 1rem;
+    border-radius: 0.8rem;
+    background-color: black;
+}
+
+.add-site-form {
+    display: flex;
+    flex-direction: column;
+}
+
+.add-site-form button:hover {
+    color: skyblue;
+}
+
+/* .form-row {
+    justify-content: center;
+    display: flex;
+} */
+
+.element-div-l {
+    min-width: 20rem;
+    display: inline-block;
+}
+
+.element-div-r {
+    min-width: 20rem;
+    display: inline-block;
+}
+
+.element-div-r input {
+    padding: 0.5rem;
+}
+
+.pad-1-rem {
+    margin: 1rem;
+    justify-content: left;
+}
+
+.add-site-form {}
